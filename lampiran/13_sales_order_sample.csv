@@ -1,0 +1,6 @@
+order_id,customer,transaction_date,delivery_date,item_code,item_name,qty,rate,amount
+SO-2026-0001,PT Graha Sukses Makmur,2026-03-01,2026-03-10,FG-001,Meja Kerja Minimalis Rega Desk 120,10,450000,4500000
+SO-2026-0002,Toko Furnitur Idaman,2026-03-02,2026-03-12,FG-001,Meja Kerja Minimalis Rega Desk 120,15,425000,6375000
+SO-2026-0002,Toko Furnitur Idaman,2026-03-02,2026-03-12,FG-002,Kursi Kerja Kayu Rega Chair,15,260000,3900000
+SO-2026-0003,Creative Co-Working Space,2026-03-05,2026-03-15,FG-001,Meja Kerja Minimalis Rega Desk 120,5,450000,2250000
+SO-2026-0003,Creative Co-Working Space,2026-03-05,2026-03-15,FG-002,Kursi Kerja Kayu Rega Chair,5,275000,1375000

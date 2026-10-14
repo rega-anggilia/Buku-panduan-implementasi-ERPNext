@@ -1,0 +1,12 @@
+parent_bom,item_code,item_name,qty,uom,rate,amount
+BOM-FG-001-001,RM-001,Papan Kayu Pinus Solid 120x60x3 cm,1,Lembar,85000,85000
+BOM-FG-001-001,RM-002,Kaki Besi Hollow 4x4 cm (Set 4 Batang),1,Set,75000,75000
+BOM-FG-001-001,RM-003,Baut Sekrup Baja Hitam (Box isi 20),1,Box,12000,12000
+BOM-FG-001-001,RM-004,Cat Politur Melamin Teak (Liter),0.5,Liter,45000,22500
+BOM-FG-001-001,RM-005,Kardus Kemasan Double Wall + Foam,1,Pcs,18000,18000
+BOM-FG-001-001,RM-006,Bantalan Karet Anti Slip Kaki Meja (Set 4),1,Set,8000,8000
+BOM-FG-002-001,RM-007,Papan Kayu Pinus Sandaran Kursi,1,Lembar,35000,35000
+BOM-FG-002-001,RM-008,Rangka Besi Kursi Ergonomis,1,Set,65000,65000
+BOM-FG-002-001,RM-003,Baut Sekrup Baja Hitam (Box isi 20),0.5,Box,12000,6000
+BOM-FG-002-001,RM-004,Cat Politur Melamin Teak (Liter),0.3,Liter,45000,13500
+BOM-FG-002-001,RM-005,Kardus Kemasan Double Wall + Foam,1,Pcs,18000,18000

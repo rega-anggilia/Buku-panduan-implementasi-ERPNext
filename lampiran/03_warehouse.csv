@@ -1,0 +1,6 @@
+warehouse_name,parent_warehouse,is_group,company
+Gudang Utama - PRMK,,1,PT Rega Manufaktur Kreasi
+Gudang Bahan Baku - RM,Gudang Utama - PRMK,0,PT Rega Manufaktur Kreasi
+Gudang Produksi - WIP,Gudang Utama - PRMK,0,PT Rega Manufaktur Kreasi
+Gudang Barang Jadi - FG,Gudang Utama - PRMK,0,PT Rega Manufaktur Kreasi
+Gudang Afkir - Scrap,Gudang Utama - PRMK,0,PT Rega Manufaktur Kreasi

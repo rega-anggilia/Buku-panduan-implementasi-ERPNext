@@ -1,0 +1,6 @@
+item_group_name,parent_item_group,is_group
+Semua Grup Barang,All Item Groups,1
+Bahan Baku,Semua Grup Barang,0
+Bahan Pembantu,Semua Grup Barang,0
+Sub-Assembly,Semua Grup Barang,0
+Barang Jadi,Semua Grup Barang,0

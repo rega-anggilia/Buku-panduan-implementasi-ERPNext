@@ -1,0 +1,9 @@
+parent_bom,operation,workstation,time_in_mins,hour_rate,operating_cost
+BOM-FG-001-001,Pemotongan dan Penyerutan,WS-CUT (Mesin Potong & Serut),20,35000,11667
+BOM-FG-001-001,Perakitan Rangka dan Top Table,WS-ASM (Meja Rakit Rangka),25,30000,12500
+BOM-FG-001-001,Finishing Woodstain Melamin,WS-FNS (Ruang Finishing & Cat),30,40000,20000
+BOM-FG-001-001,Final QC dan Packaging,WS-PCK (Quality Control & Packing),15,25000,6250
+BOM-FG-002-001,Pemotongan dan Penyerutan,WS-CUT (Mesin Potong & Serut),15,35000,8750
+BOM-FG-002-001,Perakitan Rangka dan Top Table,WS-ASM (Meja Rakit Rangka),20,30000,10000
+BOM-FG-002-001,Finishing Woodstain Melamin,WS-FNS (Ruang Finishing & Cat),20,40000,13333
+BOM-FG-002-001,Final QC dan Packaging,WS-PCK (Quality Control & Packing),10,25000,4167

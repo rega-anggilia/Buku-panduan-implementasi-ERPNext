@@ -1,0 +1,5 @@
+workstation_name,hour_rate,description
+WS-CUT (Mesin Potong & Serut),35000,Stasiun kerja pemotongan kayu dan penyerutan/penghalusan awal
+WS-ASM (Meja Rakit Rangka),30000,Stasiun kerja perakitan papan kayu dan rangka besi kaki meja
+WS-FNS (Ruang Finishing & Cat),40000,Stasiun pengecatan dasar pelapisan politur melamin dan pengeringan
+WS-PCK (Quality Control & Packing),25000,Stasiun inspeksi kualitas akhir pemasangan pelindung sudut dan kardus
